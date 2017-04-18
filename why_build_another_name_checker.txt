@@ -1,0 +1,7 @@
+There are already some excellent scientific name resolution services (for example http://resolver.globalnames.org).  So why did we build our own?
+
+For three main reasons:
+
+Coverage of South African species is often poor in the international databases that other tools use.  This is improving, but for the moment there is value in focusing specifically on South African species.
+We've tried to add value to the datasets by including other useful details in the results, such as the RedList status of the matched species, which are invaluable for horticulturalists and conservationists.  We are not aware of any other tools that do this.
+We've tried to keep the interface and the format of the results as simple as possible, to make it easy for non-specialists to use.

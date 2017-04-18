@@ -1,0 +1,22 @@
+There are 79 999 names in the Check-Lister database, drawn from the following publicly-accessible datasets:
+
+Plants: 35 403 names sourced from SANBI's BODATSA dataset http://newposa.sanbi.org/sanbi/explore. Note that there are a large number of names which are not currently included in this list as SANBI is still reviewing them.  The tool will be updated with supplementary entries as SANBI publishes them.
+
+Animals: 38 455 names sourced from SANBI's Animal checklist website (http://biodiversityadvisor.sanbi.org/research-and-modelling/checklists-and-encyclopaedia-of-life/south-african-animal-checklist/).  This includes checklists for amphibians, birds, mammals, reptiles, butterflies and other invertebrates: for details on specific groups see the SANBI website.  Note that this listing does not include synonymous (not currently accepted) names.
+
+Fish: 2 061 names sourced from FishBase.  This list includes marine and freshwater fish.
+
+Algae: 1 333 names sourced from AlgaeBase. This list includes marine, freshwater and terrestrial algae.
+
+Lichens: 2 747 names sourced from 'Fryday, A. 2016. A new checklist of lichenised, lichenicolous and allied fungi reported from South Africa'.
+
+Note that the Check-Lister database is not comprehensive: it is possible that your list may include valid names that will not be recognised.
+
+Red list status:
+
+For plants, this is the South African national status as of 2015 sourced from SANBI's Threatened Species Programme.
+
+For animals, this is the international status as of 2016 sourced from the IUCN's Red List of Threatened Species, with some supplementary entries drawn from FishBase.
+
+For algae, no red list information is available.
+
