@@ -1,5 +1,6 @@
 # species-check-lister
-Species checklist verification tool
+Species checklist verification tool.
+
 This tool checks a submitted list of species names against an authoritative list, and returns details of matches and close mismatches.  
 
 Create the MySQL database using 'checklister_db_structure.sql' (A sample dataset for South Africa is included as 'checklister_south_africa.zip'). Adjust the config.php file to reflect your database connection settings.
